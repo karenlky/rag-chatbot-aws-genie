@@ -1,0 +1,7 @@
+langchain
+sagemaker
+boto3
+requests
+opensearch-py
+streamlit
+html2text
