@@ -35,10 +35,5 @@ To run Genie as a website, you can run the code in EC2 and attach an elastic IP 
 ## Example Outputs
 Here are some example outputs
 
-<div align="center"><img src="images/code_example.png" alt="Writing Code"></div>
-<div align="center"><img src="images/diagram_example.png" alt="Creating Diagram"></div>
-<div align="center"><img src="images/query_example.png" alt="Query example"></div>
-
-## Code of Conduct
-
-We want the Learner Library to be useful to everyone and welcome PRs and Issues. We expect those who use this repo to abide by our [Code of Conduct](https://aws.github.io/code-of-conduct).
+<div align="center"><img src="images/What_is_langchain.png" alt="Answer in context"></div>
+<div align="center"><img src="images/What_is_the_best_snack_in_HK.png" alt="Answer not in context"></div>
