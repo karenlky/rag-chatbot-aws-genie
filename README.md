@@ -7,6 +7,9 @@ Amazon Bedrock provides API access to proprietary and open-source models. AWS Ge
 
 Langchain is an open-source library that has many functions to support GenAI application development and deployment, including document loaders and retrievers. AWS Genie uses Langchain to chain up all the components of the chatbot.
 
+## Architecture used
+<div align="center"><img src="images/Architecture-RAG.drawio.svg" alt="Architecture diagram"></div>
+
 ## QuickStart
 
 Here is how you can easily get started using Genie
